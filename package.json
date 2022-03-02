@@ -1,12 +1,12 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages",
-  "homepage": "https://github.com/wufang95/wufang95.github.io",
+  "homepage": "https://wufang95.github.io/",
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
+    "name": "wufang",
+    "email": "wufang_zxh@foxmail.com",
     "url": "https://github.com/wufang95"
   },
   "dependencies": {
