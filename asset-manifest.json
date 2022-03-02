@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.f4b955a8.chunk.js",
-    "main.js.map": "/static/js/main.f4b955a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.589adcbe.chunk.js": "/static/js/2.589adcbe.chunk.js",
-    "static/js/2.589adcbe.chunk.js.map": "/static/js/2.589adcbe.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c9a8d580910a58b55dd35cfaf880bfdb.js": "/precache-manifest.c9a8d580910a58b55dd35cfaf880bfdb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.589adcbe.chunk.js.LICENSE.txt": "/static/js/2.589adcbe.chunk.js.LICENSE.txt"
+    "main.js": "/wufang95/wufang95.github.io/static/js/main.f4b955a8.chunk.js",
+    "main.js.map": "/wufang95/wufang95.github.io/static/js/main.f4b955a8.chunk.js.map",
+    "runtime-main.js": "/wufang95/wufang95.github.io/static/js/runtime-main.5ed9d9be.js",
+    "runtime-main.js.map": "/wufang95/wufang95.github.io/static/js/runtime-main.5ed9d9be.js.map",
+    "static/js/2.589adcbe.chunk.js": "/wufang95/wufang95.github.io/static/js/2.589adcbe.chunk.js",
+    "static/js/2.589adcbe.chunk.js.map": "/wufang95/wufang95.github.io/static/js/2.589adcbe.chunk.js.map",
+    "index.html": "/wufang95/wufang95.github.io/index.html",
+    "precache-manifest.5f0f4385ea97b170491d8fe35f120972.js": "/wufang95/wufang95.github.io/precache-manifest.5f0f4385ea97b170491d8fe35f120972.js",
+    "service-worker.js": "/wufang95/wufang95.github.io/service-worker.js",
+    "static/js/2.589adcbe.chunk.js.LICENSE.txt": "/wufang95/wufang95.github.io/static/js/2.589adcbe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.554504a0.js",
+    "static/js/runtime-main.5ed9d9be.js",
     "static/js/2.589adcbe.chunk.js",
     "static/js/main.f4b955a8.chunk.js"
   ]
