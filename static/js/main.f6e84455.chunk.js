@@ -1,0 +1,2 @@
+(this["webpackJsonpdevelopers-portfolio"]=this["webpackJsonpdevelopers-portfolio"]||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var o=n(0),r=n.n(o),p=n(2),i=function(){return r.a.createElement("div",{style:{whiteSpace:"pre-line"}},"CUSTOM WEBSET DEMO\nFIRST CHANGE")};n.n(p).a.render(r.a.createElement(i,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.f6e84455.chunk.js.map
