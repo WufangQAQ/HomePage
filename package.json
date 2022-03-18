@@ -10,10 +10,12 @@
     "url": "https://github.com/wufang95"
   },
   "dependencies": {
+    "@nteract/mathjax": "^4.0.16",
     "axios": "^0.19.2",
     "bootstrap": "^4.5.2",
     "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
+    "marked": "^4.0.12",
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
